@@ -1,8 +1,8 @@
-# Exercise-02d-Scenes-And-Menus
+# Project02-SpaceShooter
 
 eSobriquet Exercise for MSCH-C220
+bullet space, a bullet hell like space shooter
 
-A user-controlled ship for a space-shooter game. Recently added the ability to shoot at asteroids. Created in Unity.
 
 ## Implementation
 
@@ -16,7 +16,14 @@ The explosion spritesheet was released into the public domain by [StumpyStrust](
 None
 
 ## Future Development
-Advanced features?
+more levels, working connections
 
 ## Created by
 Isaac Pittman
+
+added features
+-Background
+-two additional enemy types
+-another level, however it doesn't fully work.
+-tried to make it more like a bullet hell
+
